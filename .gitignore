@@ -1,0 +1,12 @@
+# Java编译产物
+target/
+
+# IDE配置文件
+.idea/
+.vscode/
+
+# 操作系统文件
+.DS_Store
+
+# 日志文件
+*.log
